@@ -10,10 +10,15 @@ We have two data files:
 
 Lets have a look at them!<br>
 • 15 tuples of day.csv
+<br>
+
 ![](project-bikesharing/assets/day.png)
+<br>
 <br>
 
 • 15 tuples of hour.csv
+<br>
+
 ![](project-bikesharing/assets/hour.png)
 #### Neural Network
 
