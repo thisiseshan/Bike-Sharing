@@ -8,7 +8,9 @@ We have two data files:
 
 <br>
 
-Lets have a look at them!<br>
+Lets have a look at them!
+<br>
+
 • 15 tuples of day.csv
 <br>
 
